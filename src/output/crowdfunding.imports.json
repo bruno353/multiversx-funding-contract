@@ -1,0 +1,20 @@
+[
+  "mBufferAppendBytes",
+  "managedSignalError",
+  "smallIntGetUnsignedArgument",
+  "bigIntGetUnsignedArgument",
+  "mBufferGetArgument",
+  "mBufferGetLength",
+  "getNumArguments",
+  "signalError",
+  "mBufferToBigIntUnsigned",
+  "bigIntFinishUnsigned",
+  "mBufferSetBytes",
+  "mBufferStorageLoad",
+  "checkNoPayment",
+  "mBufferFromBigIntUnsigned",
+  "mBufferStorageStore",
+  "mBufferGetByteSlice",
+  "smallIntFinishUnsigned",
+  "mBufferAppend"
+]
